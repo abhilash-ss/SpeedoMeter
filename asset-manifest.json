@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SpeedoMeter/static/css/main.7711be44.chunk.css",
+    "main.js": "/SpeedoMeter/static/js/main.2371f475.chunk.js",
+    "main.js.map": "/SpeedoMeter/static/js/main.2371f475.chunk.js.map",
+    "runtime-main.js": "/SpeedoMeter/static/js/runtime-main.7a90428a.js",
+    "runtime-main.js.map": "/SpeedoMeter/static/js/runtime-main.7a90428a.js.map",
+    "static/js/2.8284b2d3.chunk.js": "/SpeedoMeter/static/js/2.8284b2d3.chunk.js",
+    "static/js/2.8284b2d3.chunk.js.map": "/SpeedoMeter/static/js/2.8284b2d3.chunk.js.map",
+    "static/js/3.f66cde7b.chunk.js": "/SpeedoMeter/static/js/3.f66cde7b.chunk.js",
+    "static/js/3.f66cde7b.chunk.js.map": "/SpeedoMeter/static/js/3.f66cde7b.chunk.js.map",
+    "index.html": "/SpeedoMeter/index.html",
+    "static/css/main.7711be44.chunk.css.map": "/SpeedoMeter/static/css/main.7711be44.chunk.css.map",
+    "static/js/2.8284b2d3.chunk.js.LICENSE.txt": "/SpeedoMeter/static/js/2.8284b2d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a90428a.js",
+    "static/js/2.8284b2d3.chunk.js",
+    "static/css/main.7711be44.chunk.css",
+    "static/js/main.2371f475.chunk.js"
+  ]
+}
