@@ -5,7 +5,12 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <SpeedoMeter />
+      <SpeedoMeter
+        trailStrokeColor="#070709"
+        strokeColor="#F09934"
+        percentage={80}
+        innerText="kmh"
+      />
     </div>
   );
 }
