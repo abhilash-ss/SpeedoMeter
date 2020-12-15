@@ -13,11 +13,11 @@ const SpeedoMeter = styled(SpeedoMeterBase)`
   vertical-align: middle;
 
   .chart-text {
-    fill: ${(props: IProps) => props.textColor};
     transform: translateY(0.25em);
   }
 
   .chart-number {
+    fill: ${(props: IProps) => props.textColor};
     font-size: 0.6em;
     line-height: 1;
     text-anchor: middle;
@@ -26,7 +26,7 @@ const SpeedoMeter = styled(SpeedoMeterBase)`
 
   .chart-label {
     font-size: 0.2em;
-    text-transform: uppercase;
+    fill: #F09934;
     text-anchor: middle;
     transform: translateY(0.7em);
   }

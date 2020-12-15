@@ -43,9 +43,9 @@ const SpeedoMeterBase = ({
   const [progressBar, setProgressBar] = useState(0);
   const [count, setCount] = useState(0);
   const pace = percentage / speed;
-  const updatePercentage = () => {
+  const updatePercentage = () => {  
     setTimeout(() => {
-      setProgressBar(progressBar + 0.2);
+      setProgressBar(progressBar + 0.182 );
       setCount(count + 1);
     }, pace);
   };
