@@ -1,6 +1,6 @@
 # SpeedoMeter
 
-https://itsmeab.github.io/SpeedoMeter
+https://abhilash-ss.github.io/SpeedoMeter/
 
 Simples speedometer using React with typescript
 
